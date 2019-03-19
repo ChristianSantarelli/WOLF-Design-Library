@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBB10D6F-0576-40D0-BC41-AEFFEC2D74ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C48CCA80-BFCB-49BB-BF81-74AF0014ECF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "746DF4C9-B229-48A6-8F1F-D52D88E62F78",
+    "height": 60,
+    "width": 160,
+    "x": 0,
+    "y": 153
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Large / Basic  ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13A9B5C2-DFD9-4BF6-B9CA-7C19B03D2D28/71D93405-F376-4F3E-BF9B-1127FC101C07_stringValue",
+      "value": "Primary"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E90A42D-A7FB-4018-ABA6-0AFCDBF04FDE",
+      "overrideName": "F56F3101-03A7-40BA-8620-52A326E11367_stringValue",
+      "value": "App Store"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EDF6ED8-C12E-4CFF-9D70-2D6D005BC61A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3089ADF8-9561-40F9-83B5-171C30310E08",
+  "verticalSpacing": 0
+}

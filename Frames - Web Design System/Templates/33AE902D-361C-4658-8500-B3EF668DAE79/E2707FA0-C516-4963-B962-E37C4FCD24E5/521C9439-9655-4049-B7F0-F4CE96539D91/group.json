@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "521C9439-9655-4049-B7F0-F4CE96539D91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C4B23C6-6FCB-4E03-BD94-81CC1307794D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16B4BDA4-A9BD-4881-BE58-9598C2D4A2F0",
+    "height": 74,
+    "width": 328,
+    "x": 0,
+    "y": 525
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0BB2E2E6-A768-4D96-A563-F3C362831AC2"
+    },
+    {
+      "class": "text",
+      "id": "75BA1D4B-3F06-4F29-A4A3-112AC2F59AB0"
+    }
+  ],
+  "name": "Credits",
+  "nameIsFixed": true,
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7603D8C9-EFFE-4E0D-95DC-C01B8E8C50B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "269AB69E-26B5-4277-96E7-36AAC1D311ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C835BC2-D270-430A-AA99-66415793602F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6B85137D-63E6-45D9-907A-1B66139BDDDD",
+    "height": 28,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Social / Facebook",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0A3D35A-71AE-4D2A-B782-7DCBB5C3F087_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0910383-592B-41F1-90C0-AA3C6A4DE30D",
+      "overrideName": "FDEEDB61-E28D-44AC-BD2C-7A60244C4BEC_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4784A771-BD36-4ADB-A072-C8B4E4908C30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65406DE5-8783-4FB6-BF11-CD08D272EC7E",
+  "verticalSpacing": 0
+}

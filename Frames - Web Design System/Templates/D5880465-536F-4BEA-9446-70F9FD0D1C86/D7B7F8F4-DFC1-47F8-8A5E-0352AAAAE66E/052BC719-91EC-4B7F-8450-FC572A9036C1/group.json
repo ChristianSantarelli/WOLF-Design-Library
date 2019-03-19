@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "052BC719-91EC-4B7F-8450-FC572A9036C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9029E86F-B4DE-41F2-A3D5-7AAB6CFE27CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB10BBA8-4130-4923-9E49-AD9AC72F44D6",
+    "height": 75,
+    "width": 116,
+    "x": 362,
+    "y": 60
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9A47F634-FBF9-438F-9DAA-47C40A0D9370"
+    },
+    {
+      "class": "group",
+      "id": "6CF6686A-7CE7-4B0A-96D1-FE25ABF35D19"
+    }
+  ],
+  "name": "Follow us",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C2BFA5D-6CE0-40B0-8533-F4EB72A2D0B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

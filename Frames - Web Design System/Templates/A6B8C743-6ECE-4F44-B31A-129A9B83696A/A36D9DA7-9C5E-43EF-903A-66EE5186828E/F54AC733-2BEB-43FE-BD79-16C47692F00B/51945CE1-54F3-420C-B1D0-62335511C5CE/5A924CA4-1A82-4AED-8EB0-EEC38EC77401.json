@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A924CA4-1A82-4AED-8EB0-EEC38EC77401",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1995947-A433-444D-BD19-B1743CDF50FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B9FAC638-14CD-4C0D-9AAE-E09F231C7BF9",
+    "height": 28,
+    "width": 28,
+    "x": 44,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Social / Google",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1BAE376-4351-4AB6-891C-049177451E3D_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76B43606-1F7C-4517-BAD6-5CE2CB2DA810",
+      "overrideName": "1D47B76E-BC4F-4138-B715-30594B242AE8_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B67DE189-C53D-43C2-8F1A-587BE9645D3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "346C837F-64B8-4F64-B398-05C85B55E131",
+  "verticalSpacing": 0
+}

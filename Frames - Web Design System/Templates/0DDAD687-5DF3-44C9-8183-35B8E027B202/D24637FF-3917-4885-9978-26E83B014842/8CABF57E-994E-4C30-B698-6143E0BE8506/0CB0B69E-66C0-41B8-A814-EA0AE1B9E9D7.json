@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CB0B69E-66C0-41B8-A814-EA0AE1B9E9D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B48FF47-E741-43F9-9CD5-4CD55ECCFC86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60F8B5C8-381F-4C03-8009-72E0F1B75ED0",
+    "height": 935,
+    "width": 459,
+    "x": 150,
+    "y": 200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mockup / Device / iPhone X",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A73F7CCB-5D8E-4B16-A07C-1EC36819AB3C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9C117CE1-39C6-4D04-9551-A25633793E8D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "60C7D0A0-119D-4332-B9F3-34433348EA23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 86,
+    "width": 300,
+    "x": 0.3333333333330302,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Input / Text field + Label",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/8BB46224-9D08-479E-92BD-59E30234C8C2/C75B4C12-7F3B-4AC6-BF5E-475449783E53_stringValue",
+      "value": "hello@robowolf.net"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/8BB46224-9D08-479E-92BD-59E30234C8C2/69290FED-5EE4-4522-916A-AE9DF1D6C841_stringValue",
+      "value": "Type your e-mail"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/A56DD516-45AB-44C8-906F-BEBD30593985/350CF45F-E571-4017-8973-2178C0C45F0C_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AA9864C-54FA-45A8-9E42-5D298930B84B/C75B4C12-7F3B-4AC6-BF5E-475449783E53_stringValue",
+      "value": "E-mail"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0AA9864C-54FA-45A8-9E42-5D298930B84B/C5988472-6EF7-4933-95F3-ACD295B2ECD6_stringValue",
+      "value": "E-mail"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C118AB12-84B5-4DEA-AFA3-9200B864D420_stringValue",
+      "value": "E-mail"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_textStyle",
+      "value": "B3D49E01-D497-4D44-A03B-812C329F8629"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/5BDF94E8-CAB4-4B02-AE58-0CA0D3EC8597_stringValue",
+      "value": "hello@buninux.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C118AB12-84B5-4DEA-AFA3-9200B864D420_textStyle",
+      "value": "046D60FF-D5F0-45E1-B0C5-05E1B22D8588"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/CFF5A1B7-4A48-41A7-8DA5-167BF9A3C10A/7BC331F7-E937-4AAA-B104-DF7E63D2FE4B_layerStyle",
+      "value": "DC1FC3D0-9541-41BF-A515-C6D58B3B497B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F5F3D84A-C1FF-47C3-8941-DB4807220E2C/CFF5A1B7-4A48-41A7-8DA5-167BF9A3C10A/3042CB70-1381-4ABA-9EE0-7083664BD14B_layerStyle",
+      "value": "E33C52B2-411B-4D97-9C6C-C81EBC2BE7C9"
+    }
+  ],
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1867C64C-1D39-46D5-9196-1C29764D41B8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B7BF1C0-A411-4C81-BB4B-8EB38C2E8E2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0443204F-3BE6-47D0-ACC5-5BFF4D18EDA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "027637B6-ADE2-425C-9E35-1A5F613E9786",
+    "height": 28,
+    "width": 28,
+    "x": 88,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Social / Twitter",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F70A2B0-1A9B-4572-959E-FCF37405DEB8_symbolID",
+      "value": "B0C77062-B2A7-49FE-BBF3-80B775914D34"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFE9D82E-1AFF-46DA-AC4A-10D7708DEC24",
+      "overrideName": "0A4C72C8-C6B4-4B23-8F21-EDAD38BAF65D_layerStyle",
+      "value": "972F72A5-A485-4798-8E0E-A984F397E525"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6723569C-B662-445F-B8C4-06488F82DBF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E0638C0C-70F1-4AE6-B65C-FFB8F8C08D0A",
+  "verticalSpacing": 0
+}

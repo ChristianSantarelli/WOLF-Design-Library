@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3549FEA-20F5-4CFC-9DEF-50521DA50A82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24B18B16-ED24-4161-946F-1E6092AFA421",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2F4E86B-29E0-449F-A853-3E5EBC54F6C4",
+    "height": 180,
+    "width": 460,
+    "x": 522,
+    "y": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "26DBBE38-6C9B-4543-8700-93C7A052FF90"
+    },
+    {
+      "class": "group",
+      "id": "3237B69C-C60A-49F9-896C-3688C26B7FF3"
+    }
+  ],
+  "name": "Video - 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "476FB177-9A7A-474A-80E9-B9A6E7D8A8ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

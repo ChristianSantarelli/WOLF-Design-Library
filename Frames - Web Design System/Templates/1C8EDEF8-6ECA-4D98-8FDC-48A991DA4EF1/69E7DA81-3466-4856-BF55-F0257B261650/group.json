@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69E7DA81-3466-4856-BF55-F0257B261650",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCBA8CDF-BABF-4FE3-9E0D-EB0A97C9E00E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF98DE5B-7D7C-48B2-98B5-1D4BE565CB55",
+    "height": 384,
+    "width": 328,
+    "x": 16,
+    "y": 672
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6624799D-2DB2-46E8-A441-0D0C9BB19D16"
+    },
+    {
+      "class": "group",
+      "id": "2D99AB63-7315-4192-B2E5-D736EF251197"
+    }
+  ],
+  "name": "Block - 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C5F8E7E-771E-4EC4-A715-1F362A58F53D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

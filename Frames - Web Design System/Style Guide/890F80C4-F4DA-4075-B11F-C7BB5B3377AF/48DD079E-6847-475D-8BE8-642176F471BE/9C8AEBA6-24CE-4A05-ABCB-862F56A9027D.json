@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C8AEBA6-24CE-4A05-ABCB-862F56A9027D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F379A9D-641E-44A2-B485-68AC35A3D637",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A481CF9-8A83-4C28-9352-7FCF7E4D6105",
+    "height": 324,
+    "width": 380,
+    "x": 860,
+    "y": 805
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card / Image + Title + Text 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "516B80E7-557F-4B9E-8AA4-F7D733BE1B38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "36091B71-F31B-480A-A9C5-07C9D29A7896",
+  "verticalSpacing": 0
+}

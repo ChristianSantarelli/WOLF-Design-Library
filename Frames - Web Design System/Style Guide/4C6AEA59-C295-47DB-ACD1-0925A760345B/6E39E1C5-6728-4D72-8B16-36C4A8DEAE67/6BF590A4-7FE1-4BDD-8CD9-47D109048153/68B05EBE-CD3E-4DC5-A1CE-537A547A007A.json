@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68B05EBE-CD3E-4DC5-A1CE-537A547A007A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "531E8208-CFB7-4F62-B3E9-E01A9E28923C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F2C6611-751E-40E1-8F04-A5B700F7519E",
+    "height": 290,
+    "width": 414,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data / Container / Photo - Radius: 06",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "24026F80-BA78-4F03-B938-C22D7E1524C5_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/282bb79b1e5dda07de18c32050c2d13cf967751f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87FFA442-287D-4BA9-A30C-C86841FA7033",
+      "overrideName": "123F0356-A199-42FC-9023-573BA9453BF9_symbolID",
+      "value": "C26C43A1-860E-4336-B4E8-DF665830E8A0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "956E8AB3-D2FD-45B2-8E62-47B7394940D8",
+      "overrideName": "123F0356-A199-42FC-9023-573BA9453BF9/2F4C4559-1A1B-41A4-96B5-9DA56F1F39C2_layerStyle",
+      "value": "0A7B4B1A-EED8-4597-9C89-447131986504"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8E3B6EB-1D17-4606-A3FF-4721D3B19E2B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB5E4C5A-FEF9-44C8-AE7D-32F662A2A48F",
+  "verticalSpacing": 0
+}
